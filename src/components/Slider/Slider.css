@@ -1,0 +1,7 @@
+.d-block{
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    max-height: 410px;
+    background-position: 50%;
+}

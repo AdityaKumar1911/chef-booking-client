@@ -1,0 +1,11 @@
+.figure img{
+    width: 325px;
+}
+.dish{
+    display: flex;
+    justify-content: space-around;
+}
+
+.dish-title{
+    text-align: center;
+}

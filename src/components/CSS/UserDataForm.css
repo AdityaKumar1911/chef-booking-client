@@ -1,0 +1,9 @@
+.user-booking-data{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#formdata-user {
+    width: 40%;
+}
